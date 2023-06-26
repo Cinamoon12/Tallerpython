@@ -1,0 +1,1 @@
+# ejercicio de la palabra contenida en otra al derecho y al reves 
